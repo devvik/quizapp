@@ -1,0 +1,70 @@
+Which of the following can't be done with client-side JavaScript?
+A.  Validating a form
+B.   Sending a form's contents by email
+C.  Storing the form's contents to a database file on the server
+D.  None of the above
+Ans: C
+
+Which of the following are capabilities of functions in JavaScript?
+A.  Return a value
+B.   Accept parameters and Return a value
+C.  Accept parameters
+D.  None of the above
+Ans: C
+
+Which of the following is not a valid JavaScript variable name?
+A.  2names
+B.   _first_and_last_names
+C.  FirstAndLast
+D.  None of the above
+Ans: A
+
+
+Which of the following best describes JavaScript?
+A.  a low-level programming language.
+B.   a scripting language precompiled in the browser.
+C.  a compiled scripting language.
+D.  an object-oriented scripting language.
+Ans: D
+
+Choose the server-side JavaScript object?
+A.  FileUpLoad
+B.   Function
+C.  File
+D.  Date
+Ans: C
+  
+Choose the client-side JavaScript object?
+A.  Database
+B.   Cursor
+C.  Client
+D.  FileUpLoad
+Ans: D
+  
+Which of the following is not considered a JavaScript operator?
+A.  new
+B.  this
+C.  delete
+D.  typeof
+Ans: B
+
+
+Scripting language are
+A. High Level Programming language
+B. Assembly Level programming language
+C. Machine level programming language
+Ans: A
+
+Which best explains getSelection()?
+A. Returns the VALUE of a selected OPTION.
+B. Returns document.URL of the window in focus.
+C. Returns the value of cursor-selected text
+D. Returns the VALUE of a checked radio input.
+Ans: C
+
+Choose the client-side JavaScript object:
+A. Database
+B. Cursor
+C. Client
+D. FileUpLoad
+Ans: D
