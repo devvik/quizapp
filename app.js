@@ -16,7 +16,9 @@ $(document).ready(function(){
     $("#answerPage").hide();
     $("#scorePage").hide();
     $("#title").text(quiz.name);
+    
     let currentQuestion = 0;
+    let score=0;
 
     $("#start").click(function(){
         $("#startPage").hide();
@@ -43,4 +45,18 @@ $(document).ready(function(){
 
         $("#questionPage").html(htmlQuest);
     }
+
+
+    $(document).on("submit","questionForm",function(e){
+        e.preventDefaultEvent();
+        //get value of selected radio button
+        //compare to correct value
+        //if correct, increment score
+        //Display feedback (correct or right answer is...)
+        //setTimeout 
+        //currentQ++
+        //If currentQ === quiz.ques.len --> Display Results, else call to display Question
+
+
+    });
 })
